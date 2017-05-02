@@ -1,8 +1,7 @@
-# django-latest-crm-example
+# django-latest-cms-example
 
-
-Python==py3
-Django==latest
+## Python==py3
+## Django==latest
 
 <p align="left">
   <img src="./.img/comming_soon.png" width="400"/>
